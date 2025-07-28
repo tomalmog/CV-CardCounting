@@ -2,7 +2,7 @@ import cv2
 from ultralytics import YOLO
 import numpy as np
 
-model = YOLO("runs/detect/train6/weights/model.pt")
+model = YOLO("model.pt")
 
 # blackjack value
 BJ = {'A': 1, '2': 1, '3': 1, '4': 1, '5': 1, '6': 1, '7': 0,
