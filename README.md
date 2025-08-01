@@ -47,8 +47,8 @@ A step by step series of examples that tell you how to get a development environ
 Clone the repository to your local machine
 
 ```
-git clone https://github.com/yourusername/blackjack-card-counter.git
-cd blackjack-card-counter
+git clone https://github.com/tomalmog/CV-CardCounting.git
+cd CV-CardCounting
 ```
 
 Install the required Python packages
