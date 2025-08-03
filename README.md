@@ -6,7 +6,8 @@ A computer vision system that detects and classifies playing cards in real time 
 
 ### Watch the System in Action
 [![Watch the system in action here](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/Up7d6KC7Rio)
-![Youtube Video Demo](thumbnail.png) 
+[![Youtube Video Demo](thumbnail.png)](https://youtu.be/Up7d6KC7Rio)
+
 
 ### Training Results
 
